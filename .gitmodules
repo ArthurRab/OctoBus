@@ -1,0 +1,3 @@
+[submodule "use_library/NintendoTeensy"]
+	path = use_library/NintendoTeensy
+	url = git@github.com:ArthurRab/NintendoTeensy.git
